@@ -1,0 +1,21 @@
+.btn-theme{
+    padding: 10px 20px;
+    margin:20px 40px;
+    background-color:blue !important;
+    color: white !important;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none !important;
+}
+a{
+    color:white !important;
+    text-decoration: none !important;
+    font-size: 15px;
+    font-weight: bold;
+}
+.menu{
+    margin: 30px;
+}
+    
